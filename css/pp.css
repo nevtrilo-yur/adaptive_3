@@ -1,0 +1,27 @@
+.container-flex-pp {
+
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.pp-h1 {
+    text-align: center;
+}
+.p-pp {
+    text-align: center;
+    font-size: 18px;
+}
+.nav-link-pp {
+    font-size: 22px;
+    color: blue;
+    transition: 0.3s;
+}
+.nav-link-pp:hover {
+    font-size: 22px;
+    color: rgb(108, 108, 196);
+    transition: 0.3s;
+    margin: 0 auto;
+}
